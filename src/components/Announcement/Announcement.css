@@ -1,0 +1,11 @@
+.container{
+    height: 30px;
+    font-weight: 500;
+    background-color: teal;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+
+}
